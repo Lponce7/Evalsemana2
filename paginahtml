@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mi Primera Página Web</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Mi Proyecto Web</h1>
+    <p>Esta es una breve descripción de mi proyecto.</p>
+
+    <h2>Introducción</h2>
+    <p>Aquí va el contenido de la introducción.</p>
+
+    <h2>Galería de Imágenes</h2>
+    <img src="imagen1.jpg" alt="Imagen 1">
+    <img src="imagen2.jpg" alt="Imagen 2">
+
+    <h2>Contacto</h2>
+    <p>Correo electrónico: tu_correo@ejemplo.com</p>
+
+</body>
+</html>

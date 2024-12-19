@@ -1,22 +1,27 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Mi Primera Página Web</title>
+    <title>Mi Portafolio Personal</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <h1>Mi Proyecto Web</h1>
-    <p>Esta es una breve descripción de mi proyecto.</p>
-
-    <h2>Introducción</h2>
-    <p>Aquí va el contenido de la introducción.</p>
-
-    <h2>Galería de Imágenes</h2>
-    <img src="imagen1.jpg" alt="Imagen 1">
-    <img src="imagen2.jpg" alt="Imagen 2">
-
-    <h2>Contacto</h2>
-    <p>Correo electrónico: tu_correo@ejemplo.com</p>
-
+    <header>
+        <h1>Mi Portafolio Personal</h1>
+        <p>Un vistazo a mis proyectos y habilidades.</p>
+    </header>
+    <section id="introduccion">
+        <h2>Introducción</h2>
+        <p>¡Hola! Soy [Tu Nombre] y soy un/a apasionado/a de la programación web.</p>
+    </section>
+    <section id="galeria">
+        <h2>Galería de Imágenes</h2>
+        <img src="imagen1.jpg" alt="Imagen 1">
+        <img src="imagen2.jpg" alt="Imagen 2">
+    </section>
+    <section id="contacto">
+        <h2>Contacto</h2>
+        <p>Correo electrónico: tu_correo@ejemplo.com</p>
+        <p>Teléfono: +123 456 7890</p>
+    </section>
 </body>
 </html>
